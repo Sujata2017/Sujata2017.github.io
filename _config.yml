@@ -1,6 +1,10 @@
 title: Sujata Roy
-#logo: /assets/img/headshot_circle.png
-logo: assets\img\GitHub_portfolio_pic.jpg
-#description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+logo: "assets/img/GitHub_portfolio_pic.jpg?raw=true" # your photo (or logo) here
+description: > 
+  <br>
+  <a href="https://www.linkedin.com/in/sujata-roy/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
