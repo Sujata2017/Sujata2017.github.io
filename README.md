@@ -56,14 +56,11 @@ GitHub actions using ECR and EC2 instance.
 # Professional Experience
 2019-Present - Senior Software Engineer in HCL Technologies
 o Technical Responsibilities:
-- Working on AVAMAR – an enterprise storage solution
-- Collaborating with other team members to root cause and support customer raised problems
-- Participate in daily scrum meetings to provide technical insights and contribute to sprint
-planning.
-- Created and maintained dashboard using Tableau for visualization and understanding of various
-KPI measures
-- Working in collaboration with different scrum teams to understand different KPIs and its
-business impact
+- Built Python Scripts to develop EDA processes and transform into industry dashboards with plotly for internal stakeholders.
+- Participate in daily scrum meetings to provide technical insights and contribute to sprint planning.
+- Extract different KPI data from JIRA server by hitting JIRA rest API's.
+- Created and maintained dashboard using Tableau for visualization and understanding of various KPI measures.
+- Worked on a machine learning model to predict if a system will hit backup failure, so that measures can be taken beforehand. Performed feature engineering, model training, model deployment in AWS.
 
 
 2017-2019 - Software Engineer in DELL EMC
